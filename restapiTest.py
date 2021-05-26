@@ -1,5 +1,7 @@
 # exploring restapi
 # 3/27/2021  MDC
+# odd the day i started this...
+
 
 print("testing restAPI\n")
 print('Before any code\n')
